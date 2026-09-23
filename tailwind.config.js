@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        // MoveInSync-inspired green/teal enterprise palette
+        
         background: "#F5F7F4",   // clean light green-grey canvas
         surface:    "#FFFFFF",   // pure white — cards, modals, drawers, tables
         primary:    "#0B6B5E",   // deep teal-green — buttons, active states, focus
